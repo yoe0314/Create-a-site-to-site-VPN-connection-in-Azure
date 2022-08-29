@@ -6,10 +6,10 @@
 [![hackmd-github-sync-badge](https://hackmd.io/6eEbdR1jR6CvwId_4OGy8Q/badge)](https://hackmd.io/6eEbdR1jR6CvwId_4OGy8Q)
 
 - [Create a site-to-site VPN connection in Azure](#create-a-site-to-site-vpn-connection-in-azure)
-  * [1/ 建立VNet、Subnet](#1-建立vnet-subnet)
+  * [1/ 建立VNet、Subnet](#1-建立vnetsubnet)
   * [2/ 建立VPN Gateway](#2-建立vpn-gateway)
   * [3/ 建立Local Network Gateway](#3-建立local-network-gateway)
-  * [4/ 設定地端VPN設備](#4-設定地端vpn-設備)
+  * [4/ 設定地端VPN設備](#4-設定地端vpn設備)
   * [5/ 建立Connection](#5-建立connection)
   * [6/ 建立S2S VPN所需創立的資源](#6-建立s2s-vpn所需創立資源)
   * [Reference](#reference)
