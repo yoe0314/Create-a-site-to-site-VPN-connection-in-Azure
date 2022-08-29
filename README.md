@@ -6,12 +6,12 @@
 [![hackmd-github-sync-badge](https://hackmd.io/6eEbdR1jR6CvwId_4OGy8Q/badge)](https://hackmd.io/6eEbdR1jR6CvwId_4OGy8Q)
 
 - [Create a site-to-site VPN connection in Azure](#create-a-site-to-site-vpn-connection-in-azure)
-  * [1/ 建立VNet、Subnet](#1----vnet-subnet)
-  * [2/ 建立VPN Gateway](#2----vpn-gateway)
-  * [3/ 建立Local Network Gateway](#3----local-network-gateway)
-  * [4/ 設定地端VPN設備](#4------vpn--)
-  * [5/ 建立Connection](#5----connection)
-  * [6/ 建立S2S VPN所需創立的資源](#6----s2s-vpn-------)
+  * [1/ 建立VNet、Subnet](#1-建立-vnet-subnet)
+  * [2/ 建立VPN Gateway](#2-建立-vpn-gateway)
+  * [3/ 建立Local Network Gateway](#3-建立-local-network-gateway)
+  * [4/ 設定地端VPN設備](#4-設定地端-vpn-設備)
+  * [5/ 建立Connection](#5-建立-connection)
+  * [6/ 建立S2S VPN所需創立的資源](#6-建立-s2s-vpn-所需創立資源)
   * [Reference](#reference)
 
 本篇內容將透過Azure Portal來建立site-to-site VPN連線。
