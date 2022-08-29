@@ -121,6 +121,7 @@ Subnets網段為：
     - [x] ==VPN Gateway Public IP==
     - [x] ==Local Network Gateway==
     - [x] ==Connection==
+
 :::info
 :bulb: **提醒**
 * 如果只是嘗試建立S2S VPN的話，測試完畢後，記得將資源群組刪除，才不會有額外的費用產生。
