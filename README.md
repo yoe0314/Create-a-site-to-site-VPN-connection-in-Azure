@@ -11,7 +11,7 @@
   * [3/ 建立Local Network Gateway](#3-建立local-network-gateway)
   * [4/ 設定地端VPN設備](#4-設定地端vpn設備)
   * [5/ 建立Connection](#5-建立connection)
-  * [6/ 建立S2S VPN所需創立的資源](#6-建立s2s-vpn所需創立資源)
+  * [6/ 建立S2S VPN所需創立的資源](#6-建立s2s-vpn所需創立的資源)
   * [Reference](#reference)
 
 本篇內容將透過Azure Portal來建立site-to-site VPN連線。
