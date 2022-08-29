@@ -6,7 +6,6 @@
 [![hackmd-github-sync-badge](https://hackmd.io/6eEbdR1jR6CvwId_4OGy8Q/badge)](https://hackmd.io/6eEbdR1jR6CvwId_4OGy8Q)
 
 - [Create a site-to-site VPN connection in Azure](#create-a-site-to-site-vpn-connection-in-azure)
-          + [tags:`Azure Network` `VPN`](#tags--azure-network---vpn-)
   * [1/ 建立VNet、Subnet](#1----vnet-subnet)
   * [2/ 建立VPN Gateway](#2----vpn-gateway)
   * [3/ 建立Local Network Gateway](#3----local-network-gateway)
